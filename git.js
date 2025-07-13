@@ -2,4 +2,5 @@ const test= 'git'
 console.log(test)
 
 // commit
-console.log("test")
+const arr =[1,2,3,4,5]
+console.log(arr)

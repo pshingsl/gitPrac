@@ -5,3 +5,6 @@
 const arr = [3, 7, 12, 5, 20]
 const result = arr.filter(a => a>10)
 console.log(result)
+
+//test2에서 작업
+const work = "작업 중";
